@@ -6,6 +6,7 @@
 <h4><b>3.No Account Ban!😏</b></h4>
 <h4><b>4.Most Simplified!😊</b></h4>
 <h2>⚙️How to use?</h2>
+<h3><b>Deploy Through Heroku:</b></h3>
 <h4><b>1.First Open the App Deployment Page On Heroku: <a href="https://dashboard.heroku.com/new?template=https://github.com/TheCaduceus/MEGA-INDEX">Open it!</a></b></h4>
 <img src="Img/a.png" alt="Img/a.png">
 <h4><b>2.Now Enter a Unique App Name and Username/Email & Password of your Mega Account Carefully! and click Deploy Button</b></h4>
