@@ -30,18 +30,18 @@
 <h4><b>5.If you deploy your INDEX using Railway, will give you ability to add a custom Domain for your INDEX without adding any card unlike Heroku Do! The by default URL for your INDEX will be like this "https://PROJECT-NAME-ENVIRONMENTNAME.up.railway.app/"</b></h4>
 <h2>〽️Variables Used</h2>
 <h3><b>For Heroku</b></h3>
-<h4>1.MEGA_EMAIL_ID: Enter your Registered Email ID in small.</h4>
-<h4>2.MEGA_PASSWORD: Enter Password of your Registered Mega Account Carefully.</h4>
+<h4><b>1.MEGA_EMAIL_ID: Enter your Registered Email ID in small.</b></h4>
+<h4><b>2.MEGA_PASSWORD: Enter Password of your Registered Mega Account Carefully.</b></h4>
 <p><b>---</b></p>
 <h3><b>For Railway</b></h3>
-<h4>1.UserName: Enter your Registered Email ID in small.</h4>
-<h4>2.PassWord: Enter Password of your Registered Mega Account Carefully.</h4>
-<h2> 🔐 Safe or Not? ✅</h2>
-<h4> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/MEGA-INDEX">Original code</a>.🔒</h4>
-<h4> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</h4>
-<h4> 3.Do not trust any other copy of this Code.📚</h4>
-<h2>⛑Contact Us!</h2>
-<h4>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a>
-<h4>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></h4>
-<h2>❤️Credits & Thanks</h2>
-<p><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making this Powerful MEGA INDEX.</p>
+<h4><b>1.UserName: Enter your Registered Email ID in small.</b></h4>
+<h4><b>2.PassWord: Enter Password of your Registered Mega Account Carefully.</b></h4>
+<h2><b> 🔐 Safe or Not? ✅</b></h2>
+<h4><b> 1.Don't Worry! No data will be shared with anyone, if you use the <a href="https://github.com/TheCaduceus/MEGA-INDEX">Original code</a>.🔒</b></h4>
+<h4><b> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</b></h4>
+<h4><b> 3.Do not trust any other copy of this Code.📚</b></h4>
+<h2><b>⛑Contact Us!</b></h2>
+<h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
+<h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
+<h2><b>❤️Credits & Thanks</b></h2>
+<p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making this Powerful MEGA INDEX.</b></p>
