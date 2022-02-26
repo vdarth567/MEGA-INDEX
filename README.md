@@ -41,7 +41,7 @@
 <h4><b> 2.This code do not share even a single piece of data to any third party source and not create any log of that!🔑</b></h4>
 <h4><b> 3.Do not trust any other copy of this Code.📚</b></h4>
 <h2>🎯Points to be Remembered🎯</h2>
-<h4><b>1.To Update your INDEX after adding new files in your MEGA Account then either redeploy it for simply restart the dyno from going to Resources Tab and for Projects deployed on Railway! You can  delete the VARIABLES and restart your Project!</b></h4>
+<h4><b>1.To Update your INDEX after adding new files in your MEGA Account then either redeploy it or simply restart the dyno from going to Resources Tab and for Projects deployed on Railway! You can  delete the VARIABLES and restart your Project!</b></h4>
 <h2><b>⛑Contact Us!</b></h2>
 <h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
 <h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
