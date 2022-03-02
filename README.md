@@ -1,4 +1,4 @@
-# MEGA INDEX (UNLIMITED! 😊)
+# MEGA INDEX (UNLIMITED!😊)
 <b>The Most Advanced Mega Index to Download Large Files without any Quota Limit!🔥</b>
 ## 📑Features
 <h4><b>1.Download Limit Bypassed!😍</b></h4>
